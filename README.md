@@ -2,6 +2,10 @@
 
 A small Todo application demonstrating React with Redux Toolkit, Material UI inputs/buttons and Tailwind-like utility classes (styles present in project). It’s a minimal starter that shows how to wire a Redux store with slices and use actions from components.
 
+## Live Demo:
+
+https://todo-app-xvly.onrender.com
+
 ## Highlights
 - Uses React 19 + Vite for a fast dev experience
 - State management with Redux Toolkit (slice + store)
