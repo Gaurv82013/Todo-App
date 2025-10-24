@@ -13,11 +13,9 @@ export default function Todo(){
         <h1 className=' font-bold text-3xl underline text-center my-6'>Todo App</h1>
        
         <AddForm />
-<<<<<<< HEAD
-        <div className='flex justify-center items-center flex-col mb-4 border-solid border-2 border-gray-300 w-1/2 mx-auto rounded-lg p-4'>
-=======
+
         <div className='todo flex justify-center items-center flex-col mb-4 border-solid border-2 border-gray-300 w-1/2 mx-auto rounded-lg p-4'>
->>>>>>> 68cd2e5 (Add some responsiveness)
+
             <h2 className='text-center font-bold text-xl underline mb-4'>Todo List</h2>
             <ol className='list-decimal space-y-2'>
                 {todos.map((todo) => (
@@ -31,3 +29,4 @@ export default function Todo(){
     </>
     )
 }
+
